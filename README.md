@@ -2,7 +2,7 @@
 
 # RhythmNet: Real-Time ECG Arrhythmia Classification with AI
 
-This repository contains the full implementation and presentation of **RhythmNet**, a hybrid deep learning model designed for real-time arrhythmia detection from ECG signals. Developed as part of the *Advanced Machine Learning Workshop: From Research to Clinical Implementation*, this project combines clinical insight, signal processing, and AI modeling to support cardiac diagnosis in hospital environments.
+This repository contains the full implementation and presentation of **RhythmNet**, a hybrid deep learning model designed for real-time arrhythmia detection from ECG signals. Developed as part of the *"Data Science & Big Data in the Industry"* course, this project combines clinical insight, signal processing, and AI modeling to support cardiac diagnosis in hospital environments.
 
 ---
 
@@ -38,12 +38,7 @@ We used the **MIT-BIH Arrhythmia Database**, publicly available on Kaggle.
 📎 Download it from here:  
 ➡️ [Heartbeat Classification Dataset (Kaggle)](https://www.kaggle.com/datasets/shayanfazeli/heartbeat)
 
-The dataset includes:
-- ECG signals from 47 patients  
-- 5 arrhythmia classification labels  
-- 87,000+ heartbeat samples with expert annotations  
 
----
 
 ## 🧠 Model Summary
 
@@ -95,4 +90,4 @@ For questions or collaboration, feel free to open an issue or contact us directl
 
 ---
 
-> *This project was developed at Ben-Gurion University as part of the "Advanced Machine Learning Workshop".*
+> *This project was developed at Ben-Gurion University as part of the "Data Science & Big Data in the Industry".*
