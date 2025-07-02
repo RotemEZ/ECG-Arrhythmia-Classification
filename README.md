@@ -20,7 +20,6 @@ Cardiac arrhythmias are a leading cause of sudden cardiac death and demand rapid
 
 ## 📁 Repository Structure
 
-```bash
 .
 ├── notebooks/
 │   └── RhythmNet_Model_Implementation.ipynb   # Complete model training & evaluation
